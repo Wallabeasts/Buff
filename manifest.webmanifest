@@ -1,0 +1,16 @@
+{
+  "name": "Buff",
+  "short_name": "Buff",
+  "description": "A Monday-to-Sunday lifting plan that tracks your weights and loads plates on the bar as you level up.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E8EAFB",
+  "theme_color": "#3626D9",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
